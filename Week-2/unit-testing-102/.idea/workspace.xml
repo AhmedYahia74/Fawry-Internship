@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="633faa7a-3e37-4cce-b8f3-6438169cc497" name="Changes" comment="Finish unit testing task!" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="D:\Fawry-Internship\Week-2\unit-testing-102\htmlReport" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pvMD0v0QiNs2wArNBZj4kQ1PSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AccountManagerTest.executor": "Coverage",
+    "JUnit.AccountManagerTest.givenAnAmountExceedMaxCredit_whenWithdraw_thenFailed.executor": "Run",
+    "JUnit.AccountManagerTest.givenCustomerWithEnoughBalance_whenWithdraw_thenSucceed.executor": "Run",
+    "JUnit.AccountManagerTest.givenValidAmount_whenDeposit_thenSucceed.executor": "Run",
+    "JUnit.MockitoTest.test.executor": "Run",
+    "JUnit.StoreTest.executor": "Coverage",
+    "JUnit.StoreTest.givenANotValidCustomerBalance_whenBuy_thenThrowException.executor": "Run",
+    "JUnit.StoreTest.givenANotValidProductQuantity_whenBuy_thenThrowException.executor": "Run",
+    "JUnit.StoreTest.givenValidProductAndCustomer_whenBuy_thenSucceed.executor": "Run",
+    "JUnit.StoreTest.test.executor": "Run",
+    "JUnit.StoreWithMockitoTest.test.executor": "Run",
+    "Maven.unit-testing-102 [clean].executor": "Run",
+    "Maven.unit-testing-102 [install].executor": "Run",
+    "Maven.unit-testing-102 [test].executor": "Run",
+    "Maven.unit-testing-102 [validate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Secure-Chat-Application",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "discord-application",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StoreTest">
+    <configuration name="AccountManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-102" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="example.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.account" />
+      <option name="MAIN_CLASS_NAME" value="example.account.AccountManagerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-102" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="example.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
+      <option name="PACKAGE_NAME" value="example.store" />
+      <option name="MAIN_CLASS_NAME" value="example.store.StoreTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTest.givenANotValidCustomerBalance_whenBuy_thenThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-102" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="example.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="example.store" />
+      <option name="MAIN_CLASS_NAME" value="example.store.StoreTest" />
+      <option name="METHOD_NAME" value="givenANotValidCustomerBalance_whenBuy_thenThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTest.givenANotValidProductQuantity_whenBuy_thenThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-102" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="example.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="example.store" />
+      <option name="MAIN_CLASS_NAME" value="example.store.StoreTest" />
+      <option name="METHOD_NAME" value="givenANotValidProductQuantity_whenBuy_thenThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTest.givenValidProductAndCustomer_whenBuy_thenSucceed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-102" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="example.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="PACKAGE_NAME" value="example.store" />
+      <option name="MAIN_CLASS_NAME" value="example.store.StoreTest" />
+      <option name="METHOD_NAME" value="givenValidProductAndCustomer_whenBuy_thenSucceed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="unit-testing-102" />
+      <extension name="coverage" sample_coverage="false" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.StoreTest.givenANotValidCustomerBalance_whenBuy_thenThrowException" />
+      <item itemvalue="JUnit.StoreTest.givenANotValidProductQuantity_whenBuy_thenThrowException" />
+      <item itemvalue="JUnit.StoreTest" />
+      <item itemvalue="JUnit.StoreTest.givenValidProductAndCustomer_whenBuy_thenSucceed" />
+      <item itemvalue="JUnit.AccountManagerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StoreTest" />
+        <item itemvalue="JUnit.StoreTest.givenANotValidCustomerBalance_whenBuy_thenThrowException" />
+        <item itemvalue="JUnit.StoreTest.givenANotValidProductQuantity_whenBuy_thenThrowException" />
+        <item itemvalue="JUnit.StoreTest.givenValidProductAndCustomer_whenBuy_thenSucceed" />
+        <item itemvalue="JUnit.AccountManagerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="633faa7a-3e37-4cce-b8f3-6438169cc497" name="Changes" comment="" />
+      <created>1733641975230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733641975230</updated>
+      <workItem from="1734173747675" duration="2781000" />
+      <workItem from="1734260587373" duration="2746000" />
+      <workItem from="1734263466234" duration="943000" />
+      <workItem from="1734264437661" duration="251000" />
+      <workItem from="1734272048929" duration="742000" />
+      <workItem from="1734284879980" duration="1369000" />
+      <workItem from="1734286297815" duration="7989000" />
+    </task>
+    <task id="LOCAL-00001" summary="Finish unit testing task!">
+      <option name="closed" value="true" />
+      <created>1734297409075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734297409075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finish unit testing task!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish unit testing task!" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unit_testing_102$AccountManagerTest.ic" NAME="AccountManagerTest Coverage Results" MODIFIED="1734286738310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>example.account.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/unit_testing_102$StoreTest.ic" NAME="StoreTest Coverage Results" MODIFIED="1734297312813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>example.store.*</FILTER>
+    </SUITE>
+  </component>
+</project>
