@@ -1,8 +1,6 @@
 package example.store;
 
 import example.account.AccountManager;
-import example.account.AccountManagerImpl;
-import example.account.Customer;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.ArgumentMatchers;

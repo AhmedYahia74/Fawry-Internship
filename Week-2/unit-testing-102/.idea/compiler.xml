@@ -10,8 +10,5 @@
         <module name="unit-testing-102" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="unit-testing-102" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

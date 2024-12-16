@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="633faa7a-3e37-4cce-b8f3-6438169cc497" name="Changes" comment="Finish unit testing task!" />
+    <list default="true" id="633faa7a-3e37-4cce-b8f3-6438169cc497" name="Changes" comment="Finish unit testing task!">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_24_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_11_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_11_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_11_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_11_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_12_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/unit-testing-102.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/account/AccountManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/account/AccountManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example/store/StoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/store/StoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/account/AccountManagerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/account/AccountManagerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/account/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/account/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-12-15T22-37-23_564.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-12-15T22-48-46_546.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-12-15T23-17-12_611.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-example.account.AccountManagerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-example.account.AccountManagerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-example.store.StoreTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-example.store.StoreTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/example.account.AccountManagerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/example.account.AccountManagerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/example.store.StoreTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/example.store.StoreTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/example/store/StoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/example/store/StoreTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +75,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.AccountManagerTest.executor": "Coverage",
+    "JUnit.AccountManagerTest.givenANotValidAmount_whenDeposit_thenFailed.executor": "Run",
     "JUnit.AccountManagerTest.givenAnAmountExceedMaxCredit_whenWithdraw_thenFailed.executor": "Run",
     "JUnit.AccountManagerTest.givenCustomerWithEnoughBalance_whenWithdraw_thenSucceed.executor": "Run",
     "JUnit.AccountManagerTest.givenValidAmount_whenDeposit_thenSucceed.executor": "Run",
@@ -55,8 +92,10 @@
     "Maven.unit-testing-102 [validate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Secure-Chat-Application",
+    "last_opened_file_path": "D:/Fawry-Internship/Week-2/unit-testing-102",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,7 +104,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "discord-application",
+    "settings.editor.selected.configurable": "project.propCompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -83,13 +122,30 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="PACKAGE_NAME" value="example.account" />
       <option name="MAIN_CLASS_NAME" value="example.account.AccountManagerTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="wholeProject" />
-      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountManagerTest.givenANotValidAmount_whenDeposit_thenFailed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-102" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="example.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="example.account" />
+      <option name="MAIN_CLASS_NAME" value="example.account.AccountManagerTest" />
+      <option name="METHOD_NAME" value="givenANotValidAmount_whenDeposit_thenFailed" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,24 +204,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StoreTest.givenValidProductAndCustomer_whenBuy_thenSucceed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-testing-102" />
-      <extension name="coverage" sample_coverage="false">
-        <pattern>
-          <option name="PATTERN" value="example.store.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="21" />
-      <option name="PACKAGE_NAME" value="example.store" />
-      <option name="MAIN_CLASS_NAME" value="example.store.StoreTest" />
-      <option name="METHOD_NAME" value="givenValidProductAndCustomer_whenBuy_thenSucceed" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <module name="unit-testing-102" />
       <extension name="coverage" sample_coverage="false" />
@@ -179,19 +217,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.AccountManagerTest.givenANotValidAmount_whenDeposit_thenFailed" />
       <item itemvalue="JUnit.StoreTest.givenANotValidCustomerBalance_whenBuy_thenThrowException" />
       <item itemvalue="JUnit.StoreTest.givenANotValidProductQuantity_whenBuy_thenThrowException" />
       <item itemvalue="JUnit.StoreTest" />
-      <item itemvalue="JUnit.StoreTest.givenValidProductAndCustomer_whenBuy_thenSucceed" />
       <item itemvalue="JUnit.AccountManagerTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.StoreTest" />
+        <item itemvalue="JUnit.AccountManagerTest" />
+        <item itemvalue="JUnit.AccountManagerTest.givenANotValidAmount_whenDeposit_thenFailed" />
         <item itemvalue="JUnit.StoreTest.givenANotValidCustomerBalance_whenBuy_thenThrowException" />
         <item itemvalue="JUnit.StoreTest.givenANotValidProductQuantity_whenBuy_thenThrowException" />
-        <item itemvalue="JUnit.StoreTest.givenValidProductAndCustomer_whenBuy_thenSucceed" />
-        <item itemvalue="JUnit.AccountManagerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +248,8 @@
       <workItem from="1734272048929" duration="742000" />
       <workItem from="1734284879980" duration="1369000" />
       <workItem from="1734286297815" duration="7989000" />
+      <workItem from="1734324624273" duration="398000" />
+      <workItem from="1734325045802" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="Finish unit testing task!">
       <option name="closed" value="true" />
@@ -234,10 +274,10 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/unit_testing_102$AccountManagerTest.ic" NAME="AccountManagerTest Coverage Results" MODIFIED="1734286738310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/unit_testing_102$AccountManagerTest.ic" NAME="AccountManagerTest Coverage Results" MODIFIED="1734325371403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>example.account.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/unit_testing_102$StoreTest.ic" NAME="StoreTest Coverage Results" MODIFIED="1734297312813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/unit_testing_102$StoreTest.ic" NAME="StoreTest Coverage Results" MODIFIED="1734325398183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>example.store.*</FILTER>
     </SUITE>
   </component>
