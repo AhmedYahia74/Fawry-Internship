@@ -1,0 +1,10 @@
+<app-nav-bar></app-nav-bar>
+<div class="container-md">
+    
+    <app-search (searchQuery)="filteredProducts($event)"></app-search>
+    <div class="row">
+        @for(product of products; track $index) {
+            <app-product-card [product]="product" ></app-product-card>
+        }
+</div>
+</div>

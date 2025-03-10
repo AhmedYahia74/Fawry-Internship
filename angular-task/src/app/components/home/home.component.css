@@ -1,0 +1,9 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row app-product-card {
+    flex: 1 1 calc(33.333% - 1em);
+    margin: 0.5em;
+}
+
